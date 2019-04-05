@@ -1,9 +1,7 @@
 package hu.bme.mit.spaceship;
 
 /**
-* simple change
-* A cséndzs sdasd
-* A simple spaceship with two proton torpedo stores and four lasers
+Legyen csak ez
 */
 public class GT4500 implements SpaceShip {
 
